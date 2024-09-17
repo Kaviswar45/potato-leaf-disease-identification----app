@@ -81,7 +81,4 @@ To contribute, please fork the repository, make your changes, and submit a pull 
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-For any inquiries or additional information, please reach out to [Your Name] at [Your Email Address].
  
